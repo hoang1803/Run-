@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1653233412 source:d:\code\game\run!!\basefunc.cpp
+	"BaseFunc.h"
+
+1653251035 d:\code\game\run!!\basefunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<fstream>
+	<vector>
+	<algorithm>
+	<queue>
+	<SDL_ttf.h>
+	<math.h>
+
+1653191211 source:d:\code\game\run!!\baseobject.cpp
+	"BaseObject.h"
+
+1653191211 d:\code\game\run!!\baseobject.h
+	"BaseFunc.h"
+
+1653192722 source:d:\code\game\run!!\bossobject.cpp
+	"BossObject.h"
+
+1653192722 d:\code\game\run!!\bossobject.h
+	"BaseFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"ThreatObject.h"
+
+1653211275 d:\code\game\run!!\mainobject.h
+	"BaseFunc.h"
+	"BaseObject.h"
+
+1653192722 d:\code\game\run!!\threatobject.h
+	"BaseFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+
+1651732242 source:d:\code\game\run!!\gamemap.cpp
+	"GameMap.h"
+
+1651731359 d:\code\game\run!!\gamemap.h
+	"BaseFunc.h"
+	"BaseObject.h"
+
+1653246503 source:d:\code\game\run!!\mainobject.cpp
+	"MainObject.h"
+
+1653401980 source:d:\code\game\run!!\rungame.cpp
+	"BaseFunc.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"MainObject.h"
+	"Timer.h"
+	"ThreatObject.h"
+	"BossObject.h"
+	"TextObject.h"
+
+1651764737 d:\code\game\run!!\timer.h
+	"BaseFunc.h"
+
+1653241132 d:\code\game\run!!\textobject.h
+	"BaseFunc.h"
+
+1653248761 source:d:\code\game\run!!\textobject.cpp
+	"TextObject.h"
+
+1653192722 source:d:\code\game\run!!\threatobject.cpp
+	"ThreatObject.h"
+
+1651764760 source:d:\code\game\run!!\timer.cpp
+	"Timer.h"
+
